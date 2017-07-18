@@ -1,0 +1,21 @@
+http://192.168.1.164/matrec/mrec.php?img=http://
+192.168.1.218
+
+-----------|Atenção!|---------------
+------------------------------------
+->respeite as seguintes instruções
+------------------------------------
+->A primeira linha deve ser o link
+para o webservice responsavel pelo
+reconhecimento de matricula.--------
+------------------------------------
+->A segunda linha deve corresponder
+ao ip ou link de onde o projeto se 
+encontra hospedado.-----------------
+------------------------------------
+------------------------------------
+->Lembre-se que sem este ficheiro
+algumas funcionalidades n iram
+funcionar.--------------------------
+------------------------------------
+------------------------------------
