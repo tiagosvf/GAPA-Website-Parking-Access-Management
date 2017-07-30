@@ -34,7 +34,7 @@ Here are some screenshots so you can see what the website is like:
 
 ![Add gate](http://i.imgur.com/byAfkzL.png)
 
-![Manage gates](http://i.imgur.com/Tw1TydA.png)
+![Manage gates](http://i.imgur.com/uHR1aYs.png)
 
 ### Profiles
 
